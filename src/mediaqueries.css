@@ -1,0 +1,8 @@
+@media screen and (max-width: 1200px) {
+  #desktop-nav {
+    display: none;
+  } /* when the screen size is lower than 1200 pickles the hamburgr menu will display */
+  #hamburger-nav {
+    display: flex;
+  }
+}
