@@ -1,5 +1,6 @@
 import arrow from '../assets/down-arrow.png'
 import timekeeper from '../assets/time-keeper-app.png'
+import notes from '../assets/notes-app.png'
 
 export function Projects() {
   return(
@@ -36,12 +37,13 @@ export function Projects() {
           <div className="details-container color-container">
             <div className="article-container"> 
               <img 
-              src="./assets/notes-app.png" 
+              src={notes} 
               alt="Project 2" 
-              className="projects.img"
+              className="projects-img"
               />
             </div>
-            <h2 className="experience-sub-title project-title">Project Two</h2>
+            <h2 className="experience-sub-title project-title">Notes App</h2>
+            <p>Note taking app to take notess for any thoughts that come to your head or for plans you have to document and come back to </p>
             <div className="btn-container">
               <button className="btn btn-color-2 project-btn" 
               onClick={() => (window.location.href='https://github.com/essencenroberts/notesapp/')}

@@ -22,7 +22,7 @@ export function Experience () {
               <i className="fa-regular fa-square-check icon" alt="experience icon"></i>
 
               <div>
-                <h3>CSS</h3>
+                <h3>Tailwind CSS</h3>
                 <p>Experienced</p>
               </div>
             </article>
@@ -31,21 +31,31 @@ export function Experience () {
 
               <div>
                 <h3>JavaScript</h3>
-                <p>Basic</p>
+                <p>Experienced</p>
               </div>
             </article>
+             
              <article>
               <i className="fa-regular fa-square-check icon" alt="experience icon"></i>
 
               <div>
-                <h3>SEO site structure</h3>
+                <h3>React</h3>
+                <p>Experienced</p>
+              </div>
+            </article>
+
+            <article>
+              <i className="fa-regular fa-square-check icon" alt="experience icon"></i>
+
+              <div>
+                <h3>TypeScript</h3>
                 <p>Experienced</p>
               </div>
             </article>
           </div>
         </div>
         <div className="details-container">
-          <h2 className="experience-sub-title">Frontend Development</h2>
+          <h2 className="experience-sub-title">Backend Development</h2>
           <div className="article-container">
             <article>
               <i className="fa-regular fa-square-check icon" alt="experience icon"></i>
@@ -58,21 +68,21 @@ export function Experience () {
             <article>
               <i className="fa-regular fa-square-check icon" alt="experience icon"></i>
               <div>
-                <h3>Responsive Web Design</h3>
+                <h3>MongoDB</h3>
                 <p>Experienced</p>
               </div>
             </article>
             <article>
               <i className="fa-regular fa-square-check icon" alt="experience icon"></i>
               <div>
-                <h3>UI Implementation</h3>
+                <h3>Express.js</h3>
                 <p>Basic</p>
               </div>
             </article>
              <article>
               <i className="fa-regular fa-square-check icon" alt="experience icon"></i>
               <div>
-                <h3>React</h3>
+                <h3>Node.js</h3>
                 <p>Experienced</p>
               </div>
             </article>
