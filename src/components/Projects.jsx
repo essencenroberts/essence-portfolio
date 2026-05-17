@@ -44,12 +44,12 @@ export function Projects() {
             <h2 className="experience-sub-title project-title">Project Two</h2>
             <div className="btn-container">
               <button className="btn btn-color-2 project-btn" 
-              onClick={() => (window.location.href='https://github.com/')}
+              onClick={() => (window.location.href='https://github.com/essencenroberts/notesapp/')}
               >Github
               </button>
 
               <button className="btn btn-color-2 project-btn" 
-              onClick={() => (window.location.href='https://github.com/')}
+              onClick={() => (window.location.href='https://notesapp2026.netlify.app/')}
               >Live Demo
               </button>
             </div>
